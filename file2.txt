@@ -1,0 +1,3 @@
+this is day 2 of git 
+and welcome you all
+
